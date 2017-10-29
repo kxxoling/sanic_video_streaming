@@ -1,0 +1,15 @@
+[style]
+based_on_style = pep8
+
+
+blank_line_before_class_docstring = false
+blank_line_before_nested_class_or_def = true
+coalesce_brackets = false
+column_limit = 79
+dedent_closing_brackets = true
+join_multiple_lines = true
+no_spaces_around_selected_binary_operators = true
+spaces_before_comment = 4
+split_before_dict_set_generator = true
+split_before_logical_operator = true
+split_penalty_logical_operator = 10
